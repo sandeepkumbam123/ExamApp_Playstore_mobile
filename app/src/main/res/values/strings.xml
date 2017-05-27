@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ExamApp</string>
+    <string name="login">Login</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_pssword">Forgot Password?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="or">Or</string>
+    <string name="login_with">Login with</string>
+    <string name="dont_have_account_yet">Don\'t have an acount yet? Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob">DOB</string>
+    <string name="clas">Class</string>
+    <string name="college">College</string>
+    <string name="father_name">Father Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+<string name="confirm_password">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="add_amount">Add Amount</string>
+    <string name="your_invite_code">YOUR INVITE CODE</string>
+</resources>

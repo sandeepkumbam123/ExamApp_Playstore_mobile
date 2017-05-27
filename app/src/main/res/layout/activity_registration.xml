@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/dp_10"
+    tools:context="com.example.nanni.examapp.activities.RegistrationActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/first_name"/>
+        <EditText
+            android:id="@+id/et_firstName"
+            android:layout_width="match_parent"
+            android:padding="@dimen/dp_10"
+            android:background="@android:color/white"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/last_name"/>
+        <EditText
+            android:id="@+id/et_lastName"
+            android:layout_width="match_parent"
+            android:padding="@dimen/dp_10"
+
+            android:background="@android:color/white"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dob"/>
+        <EditText
+            android:id="@+id/et_dob"
+            android:layout_width="match_parent"
+            android:padding="@dimen/dp_10"
+
+            android:background="@android:color/white"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/clas"/>
+        <EditText
+            android:id="@+id/et_classname"
+            android:layout_width="match_parent"
+            android:padding="@dimen/dp_10"
+
+            android:background="@android:color/white"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/college"/>
+        <EditText
+            android:id="@+id/et_college"
+            android:layout_width="match_parent"
+            android:background="@android:color/white"
+            android:padding="@dimen/dp_10"
+
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/father_name"/>
+        <EditText
+            android:id="@+id/et_fatherName"
+            android:layout_width="match_parent"
+            android:background="@android:color/white"
+            android:padding="@dimen/dp_10"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/contact_number"/>
+        <EditText
+            android:id="@+id/et_contactNumber"
+            android:layout_width="match_parent"
+            android:background="@android:color/white"
+            android:padding="@dimen/dp_10"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/address"/>
+        <EditText
+            android:id="@+id/et_address"
+            android:layout_width="match_parent"
+            android:background="@android:color/white"
+            android:padding="@dimen/dp_10"
+
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/email"/>
+        <EditText
+            android:id="@+id/et_email"
+            android:layout_width="match_parent"
+            android:background="@android:color/white"
+            android:padding="@dimen/dp_10"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/password"/>
+        <EditText
+            android:id="@+id/et_password"
+            android:layout_width="match_parent"
+            android:background="@android:color/white"
+            android:padding="@dimen/dp_10"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/confirm_password"/>
+        <EditText
+            android:id="@+id/et_confirmPassword"
+            android:layout_width="match_parent"
+            android:background="@android:color/white"
+            android:padding="@dimen/dp_10"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</ScrollView>
