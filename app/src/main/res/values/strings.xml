@@ -3,15 +3,20 @@
     <string name="login">Login</string>
     <string name="LOGIN">LOGIN</string>
     <string name="username">Username</string>
+    <string name="user_name">User Name</string>
+
     <string name="password">Password</string>
     <string name="forgot_pssword">Forgot Password?</string>
     <string name="remember_me">Remember Me</string>
-    <string name="or">Or</string>
+    <string name="or">or</string>
     <string name="login_with">Login with</string>
-    <string name="dont_have_account_yet">Don\'t have an acount yet? Sign Up</string>
+    <string name="dont_have_account_yet">Don\'t have an acount yet?</string>
     <string name="sign_up">Sign Up</string>
+    <string name="sign_up_question">Sign Up?</string>
 
     <string name="register">Register</string>
+    <string name="e_wallet">e-Wallet</string>
+
     <string name="first_name">First Name</string>
     <string name="last_name">Last Name</string>
     <string name="dob">DOB</string>
@@ -21,9 +26,15 @@
     <string name="contact_number">Contact Number</string>
     <string name="address">Address</string>
     <string name="email">Email</string>
-<string name="confirm_password">Confirm Password</string>
+    <string name="confirm_password">Confirm Password</string>
     <string name="submit">Submit</string>
     <string name="current_balance">Current Balance</string>
     <string name="add_amount">Add Amount</string>
     <string name="your_invite_code">YOUR INVITE CODE</string>
+    <string name="previous_exams">Previous Exams</string>
+    <string name="analysis">Analysis</string>
+    <string name="take_exam">Take Exam</string>
+    <string name="exam_analysis">Exam Analysis</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
 </resources>
